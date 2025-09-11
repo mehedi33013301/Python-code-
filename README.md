@@ -47,6 +47,18 @@ def day8():
     cost8 = "cost:xxxxx"
     return date8, taka8, cost8
     
+def day9():
+    date9 = "9/9/2025"
+    taka9 = 300+420
+    cost9 = "cost:xxxxx"
+    return date9, taka9, cost9
+
+def day10():
+    date10 = "10/9/2025"
+    taka10 = "absent"
+    cost10 = "cost:xxxxx"
+    return date10, taka10, cost10
+
 print(day1())
 print(day2())
 print(day3())
@@ -55,6 +67,5 @@ print(day5())
 print(day6())
 print(day7())
 print(day8())
-print(day8())
-    
- 
+print(day9())
+print(day10())
