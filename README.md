@@ -61,7 +61,7 @@ def day10():
 
 def day11():
     date11 = "11/9/2025"
-    taka11 = 259+150+200+350
+    taka11 = 250+150+200+350
     cost11 = "cost:xxxxx"
     return date11, taka11, cost11
 
