@@ -65,6 +65,30 @@ def day11():
     cost11 = "cost:xxxxx"
     return date11, taka11, cost11
 
+def day12():
+    date12 = "12/9/2025"
+    taka12 = "friday"
+    cost12 = "cost:xxxxx"
+    return = date12, taka12, cost12
+    
+def day13():
+    date13 = "12/9/2025"
+    taka13 = "friday"
+    cost13 = "cost:xxxxx"
+    return = date13, taka13, cost13
+
+def day14():
+    date14 = "12/9/2025"
+    taka14 = "friday"
+    cost14 = "cost:500"
+    return = date14, taka14, cost14
+
+def day15():
+    date15 = "12/9/2025"
+    taka15 = "friday"
+    cost15 = "cost:xxxxx"
+    return = date15, taka15, cost15
+
 print(day1())
 print(day2())
 print(day3())
@@ -76,3 +100,7 @@ print(day8())
 print(day9())
 print(day10())
 print(day11())
+print(day12())
+print(day13())
+print(day14())
+print(day15())
